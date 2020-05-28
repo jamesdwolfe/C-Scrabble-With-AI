@@ -1,6 +1,7 @@
 Project: CSCI104: Data Structures and Object Oriented Design: Scrabble
 
 Name: James Wolfe
+
 Email: James.wolfe.jr@gmail.com
 
 C++ powered Scrabble game with GUI and multiple AI modes to play against (Either finds the word worth the most points or word with the longest length). Created during the Fall 2018 semester of CSCI104: Data Structures and Object Oriented Design at the University of Southern California.
