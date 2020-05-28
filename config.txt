@@ -1,0 +1,6 @@
+HANDSIZE: 10
+BOARD: board.txt
+TILES: bag.txt
+DICTIONARY: dictionary.txt
+SEED:  21
+INIT:  init.txt
